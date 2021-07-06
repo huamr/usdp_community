@@ -1,4 +1,4 @@
-智能大数据平台 USDP 社区版
+<div class="sidebar_title icon_"> 智能大数据平台 USDP 社区版</div>   
 
 * [产品概览](/usdp_community/README)
 * 产品文档

@@ -46,7 +46,7 @@ USDP社区版提供了友好且易于部署的管理服务，用户可一键式�
 
 
 
-更多USDP社区发行版，请查看 [USDP社区版本列表](/usdpdc/version_list)。
+更多USDP社区发行版，请查看 [USDP社区版本列表](/usdp_community/version_list)。
 
 如需USDP私有化更好的服务及支持，请查看UCloud提供的 [USDP私有化版本](/usdpdc/version_list) 情况。
 
