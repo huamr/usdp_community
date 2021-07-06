@@ -29,3 +29,4 @@ http://117.50.84.208:8002/licenseManagement/generate
 
 请扫码添加社区群助手微信：
 
+![USDP智能大数据平台产品形象大图](../../images/社区群助手.png)
