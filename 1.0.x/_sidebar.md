@@ -2,8 +2,9 @@
 
 
 
-* [版本说明](usdp_community/1.0.x/README)
-* [更多USDP版本](/usdp_community/README)
+* [产品概览](/usdp_community/1.0.x/README)
+* [功能介绍](usdp_community/1.0.x/release_notes)
+* [更多USDP社区版本](/usdp_community/version_list)
 * test1
 
 
