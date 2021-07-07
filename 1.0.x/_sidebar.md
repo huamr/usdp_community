@@ -9,7 +9,9 @@
   * [USDP社区版下载](usdp_community/1.0.x/plan&create/download)
   * [USDP社区版安装部署指南](usdp_community/1.0.x/plan&create/install)
 * 操作指南
-  * 创建第一个大数据集群
-* [更多USDP社区版本](/usdp_community/version_list)
+  * 大数据集群创建
+* 集群说明
+  * [各服务WebUIs账号](usdp_community/1.0.x/cluster_notes/login)
+* [更多USDP版本](/usdp_community/version_list)
 
 

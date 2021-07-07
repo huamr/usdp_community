@@ -2,6 +2,10 @@
 
 
 
+#### <center>[功能点概述](usdp_community/1.0.x/release_notes?id=一、功能点概述)   |   [支持的大数据生态服务](usdp_community/1.0.x/release_notes?id=二、支持的大数据生态服务)</center>
+
+
+
 ## 一、功能点概述
 
 - 支持完善的服务器初装时初始化工具；
@@ -60,7 +64,5 @@ USDP社区版 v1.0.x 中，已支持的大数据生态服务有：
 
 
 
-更多USDP社区发行版，请查看 [USDP社区版本列表](/usdp_community/version_list)。
-
-如需USDP私有化更好的支持及服务，请查看 [USDP标准版列表](/usdpdc/version_list)。
+更多USDP社区发行版，请查看 [USDP发行版本](/usdp_community/version_list) 列表。
 
