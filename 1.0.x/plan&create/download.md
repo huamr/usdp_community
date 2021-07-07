@@ -3,8 +3,9 @@
 
 
 <video id="video" length=1000 width=800 controls="" preload="none" poster="http://test-leon.cn-bj.ufileos.com/USDP介绍视频/%E5%B9%BB%E7%81%AF%E7%89%872.png">
-      <source id="mp4" src="http://test-leon.cn-bj.ufileos.com/USDP介绍视频/2.USDP%20%E4%B8%8B%E8%BD%BD.mp4">
+      <source id="wmv" src="http://jungle111111.cn-bj.ufileos.com/usdp-1.0.0.0/video/wmv/1.USDP%20%E7%AE%80%E4%BB%8B.wmv">
 </video>
+
 
 
 
