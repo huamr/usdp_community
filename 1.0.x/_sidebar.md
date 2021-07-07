@@ -7,6 +7,5 @@
 * 规划及安装
   * [USDP社区版下载](usdp_community/1.0.x/plan&create/download)
 * [更多USDP社区版本](/usdp_community/version_list)
-* test1
 
 
