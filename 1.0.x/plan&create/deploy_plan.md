@@ -16,7 +16,7 @@ USDP开始安装前，需用户根据目标集群的规模大小做参考，合�
 
 
 
-#### <center>[小规模部署](usdpdc/1.0.x/plan&create/deploy_plan?id=_1-最小规模部署)   |   [单集群多节点规划](usdpdc/1.0.x/plan&create/deploy_plan?id=_2-单集群多节点规划)   |   [多集群多节点规划](usdpdc/1.0.x/plan&create/deploy_plan?id=_3-多集群多节点规划)</center>
+#### <center>[小规模部署](usdp_community/1.0.x/plan&create/deploy_plan?id=_1-小规模部署)   |   [单集群多节点规划](usdp_community/1.0.x/plan&create/deploy_plan?id=_2-单集群多节点规划)   |   [多集群多节点规划](usdp_community/1.0.x/plan&create/deploy_plan?id=_3-多集群多节点规划)</center>
 
 
 
