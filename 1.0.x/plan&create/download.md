@@ -2,16 +2,25 @@
 
 
 
+<video id="video" length=1000 width=800 controls="" preload="none" poster="https://static.ucloud.cn/c8f75929f40abde64c0a5d3b58cf440b.png">
+      <source id="mp4" src="http://test-leon.cn-bj.ufileos.com/USDP介绍视频/2.USDP%20%E4%B8%8B%E8%BD%BD.wmv">
+</video>
+
 
 
 
 ## 1. 安装包下载
 
-• US3：https://s3-cn-bj.ufileos.com/jungle111111/usdp-1.0.0.0/install/usdp-free-1.0.0.tar.gz
+### 方式一：US3地址
 
-• 百度网盘：
-	链接：https://pan.baidu.com/s/1mlic-9ZbK4are52zh1mKfw 
-	提取码:spp9
+链接：https://s3-cn-bj.ufileos.com/jungle111111/usdp-1.0.0.0/install/usdp-free-1.0.0.tar.gz
+
+
+
+### 方式二：百度网盘
+
+链接：https://pan.baidu.com/s/1mlic-9ZbK4are52zh1mKfw 
+提取码:spp9
 
 
 
