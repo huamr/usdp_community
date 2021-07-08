@@ -1,4 +1,4 @@
-<div class="sidebar_title icon_"> 智能大数据平台 USDP 社区版</div>   
+<div class="sidebar_title icon_"> USDP 社区版 V1.0.x </div>   
 
 
 
