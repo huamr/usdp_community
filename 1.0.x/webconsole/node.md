@@ -8,6 +8,16 @@
 
 
 
+
+
+#### 本篇将涉及到：
+
+- [集群各节点运行的组件查看](usdp_community/1.0.x/webconsole/node?id=_1-集群各节点运行的组件查看)
+- [集群单节点管理](usdp_community/1.0.x/webconsole/node?id=_2-集群单节点管理)
+- [集群单节点上的组件管理](usdp_community/1.0.x/webconsole/node?id=_3-集群单节点上的组件管理)
+
+
+
 在智能大数据平台USDP控制台的管理控制中，为便于用户对集群节点及节点上承载的服务组件的管理，USDP提供较为友好的节点管理功能，譬如集群节点增删、节点的资源监控、节点上承载的各大数据服务组件的管理等，辅助用户更好的管理和使用USDP。
 
 
@@ -23,14 +33,6 @@ http://<your_master1_ip>
 ![](../../images/1.0.x/webconsole/node/node_usdp_nodemanager.png)
 
 在此，可针对该集群的所有节点实现管理操作，如各节点上组件部署情况查询和管理、节点资源监控、节点资源监控图表、节点运行查看等操作，点击下方链接前往查阅。
-
-
-
-#### 本篇将涉及到：
-
-- [集群各节点运行的组件查看](usdp_community/1.0.x/webconsole/node?id=_1-集群各节点运行的组件查看)
-- [集群单节点管理](usdp_community/1.0.x/webconsole/node?id=_2-集群单节点管理)
-- [集群单节点上的组件管理](usdp_community/1.0.x/webconsole/node?id=_3-集群单节点上的组件管理)
 
 
 
