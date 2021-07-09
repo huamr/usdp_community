@@ -25,7 +25,7 @@
 ![](../../images/1.0.x/webconsole/clusters/2020123035003.png)
 
 
-此时，即可进入创建新集群的向导流程中，接下来，您可参考 [通过USDP创建第一个大数据集群](usdp_community/1.0.x/webconsole/cluster_create?id=通过向导方式创建大数据集群) 章节，流程一致，此处就不在赘述了。
+此时，即可进入创建新集群的向导流程中，接下来，您可参考 [通过USDP创建大数据集群](usdp_community/1.0.x/webconsole/cluster_create?id=通过向导方式创建大数据集群) 章节，流程一致，此处就不在赘述了。
 
 
 
