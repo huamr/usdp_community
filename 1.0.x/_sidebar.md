@@ -14,9 +14,9 @@
   * [集群节点管理](usdp_community/1.0.x/webconsole/nodes)
   * [集群服务组件管理](usdp_community/1.0.x/webconsole/services)
   * [组件配置文件编辑](usdp_community/1.0.x/webconsole/configration)
-  * [添加服务与多集群管理](usdp_community/1.0.x/webconsole/cluster_manager)
   * [集群配置与进程拉起](usdp_community/1.0.x/webconsole/cluster_service)
   * [监控详情与自定义监控](usdp_community/1.0.x/webconsole/monitor)
+  * [多集群管理](usdp_community/1.0.x/webconsole/cluster_manager)
 * 集群说明
   * [各服务WebUIs账号](usdp_community/1.0.x/cluster_notes/login)
 * [更多USDP版本](/usdp_community/version_list)
