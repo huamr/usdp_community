@@ -1,6 +1,6 @@
 # 通过USDP创建第一个大数据集群
 
-<video id="video" controls="" preload="none" poster="http://jungle111111.cn-bj.ufileos.com/usdp-1.0.0.0/video/poster/8.USDP%E6%B7%BB%E5%8A%A0%E8%8A%82%E7%82%B9%E5%B9%B6%E5%88%86%E5%8F%91%E5%AE%89%E8%A3%85%E5%8C%85_poster.png">
+<video id="video" controls="" preload="none" poster="http://jungle111111.cn-bj.ufileos.com/usdp-1.0.0.0/video/poster/8-12.USDP%E9%9B%86%E7%BE%A4%E5%90%91%E5%AF%BC%E5%BC%8F%E5%88%9B%E5%BB%BA.png">
       <source id="mp4" src="http://jungle111111.cn-bj.ufileos.com/usdp-1.0.0.0/video/mp4/8-12.USDP%E9%9B%86%E7%BE%A4%E5%90%91%E5%AF%BC%E5%BC%8F%E5%88%9B%E5%BB%BA.mp4">
 </video>
 
