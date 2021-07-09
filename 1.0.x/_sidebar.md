@@ -11,7 +11,7 @@
 * 操作指南
   * [创建账号与证书导入](usdp_community/1.0.x/webconsole/license)
   * [创建大数据集群](usdp_community/1.0.x/webconsole/cluster_create)
-  * [集群节点管理](usdp_community/1.0.x/webconsole/nodes)
+  * [集群节点管理](usdp_community/1.0.x/webconsole/node)
   * [集群服务组件管理](usdp_community/1.0.x/webconsole/services)
   * [组件配置文件编辑](usdp_community/1.0.x/webconsole/configration)
   * [集群配置与进程拉起](usdp_community/1.0.x/webconsole/cluster_service)
