@@ -13,7 +13,7 @@
   * [创建大数据集群](usdp_community/1.0.x/webconsole/cluster_create)
   * [集群节点管理](usdp_community/1.0.x/webconsole/node)
   * [集群服务组件管理](usdp_community/1.0.x/webconsole/services)
-  * [组件配置文件编辑](usdp_community/1.0.x/webconsole/configration)
+  * [组件配置文件修改](usdp_community/1.0.x/webconsole/configration)
   * [集群配置与进程拉起](usdp_community/1.0.x/webconsole/cluster_service)
   * [监控详情与自定义监控](usdp_community/1.0.x/webconsole/monitor)
   * [多集群管理](usdp_community/1.0.x/webconsole/cluster_manager)
