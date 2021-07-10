@@ -5,9 +5,9 @@
 * [产品概览](/usdp_community/1.0.x/README)
 * [功能介绍](usdp_community/1.0.x/release_notes)
 * USDP安装
-  * [资源规划参考](usdp_community/1.0.x/plan&create/deploy_plan)
-  * [社区版下载](usdp_community/1.0.x/plan&create/download)
-  * [部署指南](usdp_community/1.0.x/plan&create/install)
+  * [社区版下载](usdp_community/plan&create/download)
+  * [资源规划参考](usdp_community/plan&create/deploy_plan)
+  * [部署操作指南](usdp_community/plan&create/install)
 * 操作指南
   * [创建账号与证书导入](usdp_community/1.0.x/webconsole/license)
   * [创建大数据集群](usdp_community/1.0.x/webconsole/cluster_create)

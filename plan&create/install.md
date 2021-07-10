@@ -2,7 +2,7 @@
 
 
 
-### <center>[环境准备](usdp_community/1.0.x/plan&create/install?id=_1-环境准备)   |   [部署说明](usdp_community/1.0.x/plan&create/install?id=_2-部署说明)   |   [附录](usdp_community/1.0.x/plan&create/install?id=_3-附录)</center>  
+### <center>[环境准备](usdp_community/plan&create/install?id=_1-环境准备)   |   [部署说明](usdp_community/plan&create/install?id=_2-部署说明)   |   [附录](usdp_community/plan&create/install?id=_3-附录)</center>  
 
 
 
@@ -22,7 +22,7 @@
 
  注意：上述节点可以是物理节点、也可以是虚拟节点。
 
-若期望构建更大规模、更加复杂的大数据分析系统，可前往 [资源规划参考](usdp_community/1.0.x/plan&create/install) 进行准备。
+若期望构建更大规模、更加复杂的大数据分析系统，可前往 [资源规划参考](usdp_community/plan&create/install) 进行准备。
 
 ### 1.2 下载资源与系统环境准备
 
@@ -30,7 +30,7 @@
 
 #### 1.2.1 USDP社区版安装包下载
 
-点击 [USDP社区版获取](usdp_community/1.0.x/plan&create/download) 进行下载。
+点击 [USDP社区版获取](usdp_community/plan&create/download) 进行下载。
 
 #### 1.2.2 资源说明
 
@@ -371,7 +371,7 @@ http://:80
 
 ### 2.5 下载免费版证书
 
-使用 USDP 免费版，用户需要生成 [免费版证书](usdp_community/1.0.x/plan&create/download?id=_2-license获取)。
+使用 USDP 免费版，用户需要生成 [免费版证书](usdp_community/plan&create/download?id=_2-license获取)。
 
 下载得到证书后，无需解压，直接在 USDP 页面中上传证书即可。完成后，即可使用开始使用 USDP 部署、管理、运维集群节点以及大数据相关服务。
 
