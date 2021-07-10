@@ -10,6 +10,8 @@
 
 
 
+USDP社区版安装包可点击 [USDP社区版获取](usdp_community/plan&create/download) 进行下载。
+
 
 
 ## 标准版
