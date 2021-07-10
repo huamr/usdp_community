@@ -1,4 +1,4 @@
-# USDP社区版获取
+# USDP社区版安装包下载
 
 
 
@@ -18,7 +18,7 @@
 
 链接：https://s3-cn-bj.ufileos.com/jungle111111/usdp-1.0.0.0/install/usdp-free-1.0.0.tar.gz
 
-?> US3中，目前仅提供“USDP社区版v1.0.0.0安装包”下载。</br></br>包名：</br>usdp-free-1.0.0.tar.gz
+> !US3中，目前仅提供“USDP社区版v1.0.0.0安装包”下载。</br></br>包名：</br>usdp-free-1.0.0.tar.gz
 
 
 

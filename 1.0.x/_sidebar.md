@@ -4,8 +4,8 @@
 
 * [产品概览](/usdp_community/1.0.x/README)
 * [功能介绍](usdp_community/1.0.x/release_notes)
-* USDP安装
-  * [社区版下载](usdp_community/plan&create/download)
+* USDP社区版安装
+  * [安装包下载](usdp_community/plan&create/download)
   * [资源规划参考](usdp_community/plan&create/deploy_plan)
   * [部署操作指南](usdp_community/plan&create/install)
 * 操作指南

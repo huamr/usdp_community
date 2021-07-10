@@ -2,8 +2,8 @@
 
 * [产品概览](/usdp_community/README)
 * [功能介绍](usdp_community/1.0.x/release_notes)
-* USDP安装
-   * [社区版下载](usdp_community/plan&create/download)
+* USDP社区版安装
+   * [安装包下载](usdp_community/plan&create/download)
    * [资源规划参考](usdp_community/plan&create/deploy_plan)
    * [部署操作指南](usdp_community/plan&create/install)
 * <!--产品文档-->
@@ -18,5 +18,7 @@
    * [集群配置与进程拉起](usdp_community/1.0.x/webconsole/cluster_service)
    * [监控详情与自定义监控](usdp_community/1.0.x/webconsole/monitor)
    * [多集群管理](usdp_community/1.0.x/webconsole/cluster_manager)
+* 集群说明
+   * [各服务WebUIs账号](usdp_community/1.0.x/cluster_notes/login)
 * [更多USDP版本](/usdp_community/version_list)
 
