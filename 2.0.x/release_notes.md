@@ -1,8 +1,8 @@
-# USDP-V2.0.x 功能简介
+# USDP社区版V2.0.x 功能简介
 
 
 
-#### <center>[功能点概述](usdp_community/2.0.x/release_notes?id=一、功能点概述)   |   [支持的大数据生态服务](usdp_community/2.0.x/release_notes?id=二、支持的大数据生态服务)</center>
+### <center>[功能点概述](usdp_community/2.0.x/release_notes?id=一、功能点概述)   |   [支持的大数据生态服务](usdp_community/2.0.x/release_notes?id=二、支持的大数据生态服务)</center>
 
 
 
@@ -44,7 +44,6 @@ USDP社区版 v2.0.x 中，已支持的大数据生态服务有：
 | HBASE            | 2.1.10     | 分布式非关系型数据库                   |
 | TEZ              | 0.10.0     | 优化 MapReduce 任务的 DAG              |
 | HIVE             | 3.1.2      | 常用的 HQL 数仓工具                    |
-| TRINO            | 358        | 分布式计算服务                         |
 | PHOENIX          | 5.1.1      | HBase SQL 化查询分析工具               |
 | KAFKA            | 2.12-2.6.1 | 超高吞吐的分布式消息队列               |
 | KAFKAEAGLE       | 2.0.0      | Kafka 可视化管理服务                   |
@@ -55,8 +54,6 @@ USDP社区版 v2.0.x 中，已支持的大数据生态服务有：
 | ELASTICSEARCH    | 7.8.0      | 分布式全文检索数据库                   |
 | KIBANA           | 7.8.0      | 为 ElasticSearch 提供 Web 页面分析入口 |
 | RANGER           | 2.1.0      | 授权服务                               |
-| ATLAS            | 2.1.0      | 元数据管理服务                         |
-| KYLIN            | 3.1.2      | 数仓维度建模服务                       |
 | DOLPHINSCHEDULER | 1.3.6      | 可视化DAG工作流任务调度系统            |
 | ALERTMANAGER     | 0.21.0     | 发送监控告警信息                       |
 | GRAFANA          | 6.5.1      | 展示监控数据                           |

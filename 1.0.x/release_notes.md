@@ -2,7 +2,7 @@
 
 
 
-#### <center>[功能点概述](usdp_community/1.0.x/release_notes?id=一、功能点概述)   |   [支持的大数据生态服务](usdp_community/1.0.x/release_notes?id=二、支持的大数据生态服务)</center>
+### <center>[功能点概述](usdp_community/1.0.x/release_notes?id=一、功能点概述)   |   [支持的大数据生态服务](usdp_community/1.0.x/release_notes?id=二、支持的大数据生态服务)</center>
 
 
 
