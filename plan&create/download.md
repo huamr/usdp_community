@@ -39,6 +39,6 @@ http://117.50.84.208:8002/licenseManagement/generate
 
 ## 3. 社区群交流
 
-![USDP智能大数据平台产品形象大图](../images/社区群助手.png)
+![USDP智能大数据平台产品形象大图](../images/社区群助手0.png)
 
 扫码添加UCloud大数据技术专家，备注“**USDP社区版**”，邀请您加入**大数据产品技术交流群**。
