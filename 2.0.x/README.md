@@ -1,30 +1,24 @@
-
-
-
-
-
-
-
-
-
-
 ## USDP社区版技术文档
 
 
 
-## 一、产品概述
+### <center>[产品概述](usdp_community/2.0.x/README?id=产品概述)   |   [安全可靠性的自研管理组件](usdp_community/2.0.x/README?id=自研管理组件，安全可靠性更高)   |   [核心优势](usdp_community/2.0.x/README?id=USDP一站式智能大数据平台的核心优势)   |   [安装包获取](usdp_community/2.0.x/README?id=安全包获取)   |   [社区群交流](usdp_community/2.0.x/README?id=社区群交流)</center>   
+
+
+
+## 产品概述
 
 UCloud Smart Data Platform（简称 USDP）社区版，是 UCloud 推出的云上智能化、轻量级的大数据基础服务平台，能够帮您快速构建起大数据的分析处理能力。
 
-![USDP智能大数据平台产品形象大图](../images/USDP智能大数据平台产品形象大图.png)
+![USDP智能大数据平台产品形象大图](images/USDP智能大数据平台产品形象大图.png)
 
 UCloud基于多年大数据平台开发经验，发布了针对私有化部署场景下的一站式智能大数据平台USDP社区版。其具备构建于 IDC物理服务器、云 IaaS 虚拟服务器的能力，其通过自研的 USDP Manager 管理工具，支持管理多套大数据集群，您可创建资源独享的大数据集群。支持HDFS、Kudu、ES全生态，并在集群中管理Hive、HBase、Spark、Flink、Presto 等开源的大数据组件，如进行集群节点、服务配置、监控告警、故障诊断等智能化的运维管理操作，从而协助您轻松构建和管理大数据业务的分析处理能力。
 
-## 二、自研管理组件，安全可靠性更高
+## 自研管理组件，安全可靠性更高
 
 USDP作为UCloud大数据团队自主研发的一站式智能大数据平台，其整体架构如下图所示：
 
-![USDP智能大数据平台产品形象大图](../images/USDP架构图.png)
+![USDP智能大数据平台产品形象大图](images/USDP架构图.png)
 
 Manager Server为USDP管理端服务，需配备一个MySQL实例存储集群相关的元数据信息。Agent为USDP从节点控制端服务，用于管理、操作所在节点以及所在节点上的大数据服务。其中BigData Service为各类大数据服务（例如：HDFS、YARN等）。
 
@@ -32,7 +26,7 @@ InfluxDB、Prometheus、Grafana作为监控服务，用于汇总并展示整个�
 
 USDP支持最少3个节点，最多上千节点的集群规模，同时，允许Manager Server与Agent等相关服务部署在相同的节点上，这样满足大型业务的同时，也尽可能帮助用户使用较小的成本满足小型业务对数据分析的诉求。
 
-## 三、USDP一站式智能大数据平台的核心优势
+## USDP一站式智能大数据平台的核心优势
 
 ### 1. 无需担心业务绑定
 
@@ -61,3 +55,17 @@ USDP提供预置的告警模板，用户只需要引导进行简单配置，即�
 ### 5. 专业的技术支持
 
 UCloud大数据团队积淀了多年公有云大数据运维和业务调优经验，通过持续更新的文档知识库，为用户提供专家级技术支持，解决使用USDP的后顾之忧。
+
+
+
+## 安全包获取
+
+请点击前往下载 [USDP社区版安装包](usdp_community/plan&create/download)
+
+
+
+## 社区群交流
+
+![USDP智能大数据平台产品形象大图](../images/社区群助手0.png)
+
+扫码添加UCloud大数据技术专家，备注“**USDP社区版**”，邀请您加入**大数据产品技术交流群**。

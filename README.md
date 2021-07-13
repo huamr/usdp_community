@@ -2,7 +2,7 @@
 
 
 
-### <center>[产品概述](usdp_community/README?id=产品概述)   |   [安全可靠性的自研管理组件](usdp_community/README?id=自研管理组件，安全可靠性更高)   |   [核心优势](usdp_community/README?id=USDP一站式智能大数据平台的核心优势)   |   [社区群交流](usdp_community/README?id=社区群交流)</center>   
+### <center>[产品概述](usdp_community/README?id=产品概述)   |   [安全可靠性的自研管理组件](usdp_community/README?id=自研管理组件，安全可靠性更高)   |   [核心优势](usdp_community/README?id=USDP一站式智能大数据平台的核心优势)   |   [安装包获取](usdp_community/README?id=安全包获取)   |   [社区群交流](usdp_community/README?id=社区群交流)</center>   
 
 
 
@@ -55,6 +55,12 @@ USDP提供预置的告警模板，用户只需要引导进行简单配置，即�
 ### 5. 专业的技术支持
 
 UCloud大数据团队积淀了多年公有云大数据运维和业务调优经验，通过持续更新的文档知识库，为用户提供专家级技术支持，解决使用USDP的后顾之忧。
+
+
+
+## 安全包获取
+
+请点击前往下载 [USDP社区版安装包](usdp_community/plan&create/download)
 
 
 
