@@ -2,7 +2,7 @@
 
 
 
-### <center>[产品概述](usdp_community/README?id=产品概述)   |   [安全可靠性的管理组件](usdp_community/README?id=产品概述)   |   [核心优势](usdp_community/README?id=产品概述)   |   [社区群交流](usdp_community/README?id=产品概述)</center>   
+### <center>[产品概述](usdp_community/README?id=产品概述)   |   [安全可靠性的自研管理组件](usdp_community/README?id=自研管理组件，安全可靠性更高)   |   [核心优势](usdp_community/README?id=USDP一站式智能大数据平台的核心优势)   |   [社区群交流](usdp_community/README?id=社区群交流)</center>   
 
 
 
