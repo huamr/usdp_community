@@ -17,6 +17,7 @@
   * [多集群管理](usdp_community/webconsole/cluster_manager)
 * 集群说明
   * [各服务WebUIs账号](usdp_community/2.0.x/cluster_notes/login)
+  * [各服务常用端口号](usdp_community/2.0.x/cluster_notes/ports)
   * [各组件服务部署规则说明](usdp_community/2.0.x/cluster_notes/rule)
 * [更多USDP版本](/usdp_community/version_list)
 
