@@ -24,5 +24,5 @@
 
 ## 公有云版
 
-[USDP UCloud Docs](USDP/README)
+- [USDP UCloud Docs](USDP/README)
 
