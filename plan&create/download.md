@@ -16,9 +16,9 @@
 
 #### 方式一：US3
 
-链接：https://s3-cn-bj.ufileos.com/jungle111111/usdp-1.0.0.0/install/usdp-free-1.0.0.tar.gz
+链接：http://jungle111111.cn-bj.ufileos.com/usdp-1.0.0.0/install/usdp-01-master-privatization-free1-1.0.0.0.tar.gz
 
-> !US3中，目前仅提供“USDP社区版v1.0.0.0安装包”下载。</br></br>包名：</br>usdp-free-1.0.0.tar.gz
+> !US3中，目前仅提供“USDP社区版v1.0.0.0安装包”下载。</br></br>包名：</br>usdp-01-master-privatization-free1-1.0.0.0.tar.gz
 
 
 
