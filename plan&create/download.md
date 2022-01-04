@@ -7,22 +7,23 @@
 新版本安装包获取途径有以下两种，可根据需求自行选择。
 #### 方式一：百度网盘
 
-- USDP-2.X
+**USDP-2.X**
 链接：https://pan.baidu.com/s/1G_WrXY-RghsWy_cizaPAfA 
 提取码：bokk 
-- USDP-1.X:
+
+**USDP-1.X:**
 链接：https://pan.baidu.com/s/1Dl1x2JZfkAMMsi4cZSwvjA 
 提取码：us4u 
 
 #### 方式二：US3
 
-- USDP-2.X:
+**USDP-2.X:**
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/epel.tgz
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/httpd-rpms.tar.gz
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/mirror.tgz
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/usdp-01-master-privatization-free-2.X.tar.gz
 
-- USDP-1.X:
+**USDP-1.X:**
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/epel.tgz
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/httpd-rpms.tar.gz
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/mirror.tgz
