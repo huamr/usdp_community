@@ -19,14 +19,20 @@
 
 **USDP-2.X:**
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/epel.tgz
+
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/httpd-rpms.tar.gz
+
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/mirror.tgz
+
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/usdp-01-master-privatization-free-2.X.tar.gz
 
 **USDP-1.X:**
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/epel.tgz
+
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/httpd-rpms.tar.gz
+
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/mirror.tgz
+
 https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/usdp-01-master-privatization-free-1.X.tar.gz
 
 !> USDP的安装包名：</br></br>usdp-01-master-privatization-free-1.X.tar.gz </br>usdp-01-master-privatization-free-2.X.tar.gz
