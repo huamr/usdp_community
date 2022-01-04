@@ -1,41 +1,41 @@
 # USDP社区版安装包下载
 
+## 1. 安装包获取
+
+### 1.1 USDP社区版安装包下载
+
+新版本安装包获取途径有以下两种，可根据需求自行选择。
+#### 方式一：百度网盘
+
+- USDP-2.X
+链接：https://pan.baidu.com/s/1G_WrXY-RghsWy_cizaPAfA 
+提取码：bokk 
+- USDP-1.X:
+链接：https://pan.baidu.com/s/1Dl1x2JZfkAMMsi4cZSwvjA 
+提取码：us4u 
+
+#### 方式二：US3
+
+- USDP-2.X:
+https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/epel.tgz
+https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/httpd-rpms.tar.gz
+https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/mirror.tgz
+https://s3-cn-bj.ufileos.com/usdp-free/usdp-2.X/usdp-01-master-privatization-free-2.X.tar.gz
+
+- USDP-1.X:
+https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/epel.tgz
+https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/httpd-rpms.tar.gz
+https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/mirror.tgz
+https://s3-cn-bj.ufileos.com/usdp-free/usdp-1.X/usdp-01-master-privatization-free-1.X.tar.gz
+
+!> USDP的安装包名：</br></br>usdp-01-master-privatization-free-1.X.tar.gz </br>usdp-01-master-privatization-free-2.X.tar.gz
+
+### 2. 安装过程视频参考：
 
 
 <video id="video" length=1000 width=800 controls="" preload="none" poster="http://test-leon.cn-bj.ufileos.com/USDP介绍视频/%E5%B9%BB%E7%81%AF%E7%89%872.png">
       <source id="mp4" src="http://jungle111111.cn-bj.ufileos.com/usdp-1.0.0.0/video/mp4/2.USDP%E4%B8%8B%E8%BD%BD.mp4">
 </video>
-
-
-
-
-
-## 1. 安装包获取
-
-### 1.1 USDP社区版安装包下载
-
-#### 方式一：US3
-
-链接：http://jungle111111.cn-bj.ufileos.com/usdp-1.0.0.0/install/usdp-01-master-privatization-free1-1.0.0.0.tar.gz
-
-> !US3中，目前仅提供“USDP社区版v1.0.0.0安装包”下载。</br></br>包名：</br>usdp-01-master-privatization-free1-1.0.0.0.tar.gz
-
-
-
-#### 方式二：百度网盘
-
-链接：https://pan.baidu.com/s/1mlic-9ZbK4are52zh1mKfw 
-提取码:spp9
-
-?> 百度网盘中，提供“USDP社区版v1.0.0.0、v2.0.0.0安装包”下载。</br></br>包名：</br>usdp-01-master-privatization-free-1.0.0.0-2021-06-09.tar.gz</br>usdp-01-master-privatization-free-2.0.0.0.tar.gz
-
-
-
-## 2. License获取
-
-http://117.50.84.208:8002/licenseManagement/generate
-
-
 
 ## 3. 社区群交流
 
