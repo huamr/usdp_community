@@ -19,10 +19,3 @@
 - [USDP Standard v2.0.x](/usdpdc/2.0.x/README) 版本“产品文档”，产品 [功能描述](/usdpdc/2.0.x/release_notes)。
 
 
-
-
-
-## 公有云版
-
-- [USDP UCloud Docs](USDP/README)
-
