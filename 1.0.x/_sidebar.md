@@ -7,7 +7,6 @@
   * [资源规划参考](usdp_community/plan&create/deploy_plan)
   * [部署操作指南](usdp_community/plan&create/install)
 * 操作指南
-  * [创建账号与证书导入](usdp_community/webconsole/license)
   * [创建大数据集群](usdp_community/webconsole/cluster_create)
   * [集群节点管理](usdp_community/webconsole/node)
   * [集群服务组件管理](usdp_community/webconsole/services)
@@ -19,5 +18,4 @@
   * [各服务WebUIs账号](usdp_community/1.0.x/cluster_notes/login)
   * [各组件服务部署规则说明](usdp_community/1.0.x/cluster_notes/rule)
 * [更多USDP版本](/usdp_community/version_list)
-
 

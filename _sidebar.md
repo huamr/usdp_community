@@ -12,7 +12,6 @@
    * <!--[USDP Community  v1.0.x](/usdp_community/1.0.x/README)-->
    * <!--[USDP v2.0.x](/usdp_community/2.0.x/README) -->
 * 操作指南
-   * [创建账号与证书导入](usdp_community/webconsole/license)
    * [创建大数据集群](usdp_community/webconsole/cluster_create)
    * [集群节点管理](usdp_community/webconsole/node)
    * [集群服务组件管理](usdp_community/webconsole/services)
