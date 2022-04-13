@@ -7,7 +7,7 @@
 | 服务名称   | 账号   | 密码   |
 | ---------- | ------ | ------ |
 | Grafana    | hadoop | hadoop |
-| Hue        | admin  | Admin  |
+| Hue        | admin  | admin  |
 | Zeppelin   | hadoop | hadoop |
 | Airflow    | hadoop | hadoop |
 | ZKUI       | hadoop | hadoop |
