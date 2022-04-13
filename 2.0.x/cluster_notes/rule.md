@@ -10,10 +10,10 @@
 /srv/udp/${USDP 服务版本}/${服务名称}
 ~~~
 
-以 USDP V1.0.0.0 版本的集群 HDFS 服务安装为例：
+以 USDP V2.0.0.0 版本的集群 HDFS 服务安装为例：
 
 ~~~shell
-/srv/udp/1.0.0.0/hdfs
+/srv/udp/2.0.0.0/hdfs
 ~~~
 
 ## 2.组件服务配置文件目录
@@ -24,10 +24,10 @@
 /etc/udp/${USDP 服务版本}/${服务名称}/${原服务配置文件相对路径}
 ~~~
 
-以 USDP V1.0.0.0 版本的集群 HDFS 服务配置文件为例，其 core-site.xml 相关文件在如下目录中：
+以 USDP V2.0.0.0 版本的集群 HDFS 服务配置文件为例，其 core-site.xml 相关文件在如下目录中：
 
 ~~~shell
-/etc/udp/1.0.0.0/hdfs/etc/hadoop
+/etc/udp/2.0.0.0/hdfs/etc/hadoop
 ~~~
 
 ## 3.组件服务默认的数据存储路径
@@ -40,10 +40,10 @@
 /data/udp/${USDP 服务版本}/${服务名称}
 ~~~
 
-以 USDP V1.0.0.0 版本的集群 HDFS 服务的数据存储为例：
+以 USDP V2.0.0.0 版本的集群 HDFS 服务的数据存储为例：
 
 ~~~shell
-/data/udp/1.0.0.0/hdfs/
+/data/udp/2.0.0.0/hdfs/
 ~~~
 
 ## 4.组件服务的日志存储路径
@@ -53,10 +53,10 @@
 /var/log/udp/${USDP 服务版本}/${服务名称}/
 ~~~
 
-以 USDP V1.0.0.0 版本的集群 HBase 服务日志为例：
+以 USDP V2.0.0.0 版本的集群 HBase 服务日志为例：
 
 ~~~shell
-/var/log/udp/1.0.0.0/hbase/hbase-hadoop-master-x.log
+/var/log/udp/2.0.0.0/hbase/hbase-hadoop-master-x.log
 ~~~
 
 当开发者需要基于某些服务、组件进行开发作业时，可以进入到相应目录进行脚本、API 等操作。如有特殊需要，也可以自行添加环境变量及classpath。
