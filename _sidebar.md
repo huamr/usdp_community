@@ -20,4 +20,6 @@
    * [监控详情与自定义监控](usdp_community/webconsole/monitor)
    * [多集群管理](usdp_community/webconsole/cluster_manager)
 * [更多USDP版本](/usdp_community/version_list)
+   * [USDP专业版](/usdpdc/README)
+
 

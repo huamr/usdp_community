@@ -18,4 +18,5 @@
   * [各服务WebUIs账号](usdp_community/1.0.x/cluster_notes/login)
   * [各组件服务部署规则说明](usdp_community/1.0.x/cluster_notes/rule)
 * [更多USDP版本](/usdp_community/version_list)
+  * [USDP专业版](/usdpdc/README)
 

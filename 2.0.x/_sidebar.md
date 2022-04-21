@@ -19,6 +19,7 @@
   * [各服务常用端口号](usdp_community/2.0.x/cluster_notes/ports)
   * [各组件服务部署规则说明](usdp_community/2.0.x/cluster_notes/rule)
 * [更多USDP版本](/usdp_community/version_list)
+  * [USDP专业版](/usdpdc/README)
 
 
 
