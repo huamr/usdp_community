@@ -14,9 +14,9 @@
 
 #### 本篇将涉及到：
 
-- [集群各节点运行的组件查看](usdp_community/1.0.x/webconsole/node?id=_1-集群各节点运行的组件查看)
-- [集群单节点管理](usdp_community/1.0.x/webconsole/node?id=_2-集群单节点管理)
-- [集群单节点上的组件管理](usdp_community/1.0.x/webconsole/node?id=_3-集群单节点上的组件管理)
+- [集群各节点运行的组件查看](usdp_community/webconsole/node?id=_1-集群各节点运行的组件查看)
+- [集群单节点管理](usdp_community/webconsole/node?id=_2-集群单节点管理)
+- [集群单节点上的组件管理](usdp_community/webconsole/node?id=_3-集群单节点上的组件管理)
 
 
 
