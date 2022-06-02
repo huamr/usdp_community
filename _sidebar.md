@@ -28,8 +28,6 @@
        * [通知对象](usdp_community/webconsole/alarmInform_object)
        * [邮件发送设置](usdp_community/webconsole/alarmInform_email)
      * [告警生效](usdp_community/webconsole/alarmTemplate_work)
-
-
 * 开发指南
    * 存储开发指南
      * [HDFS-开发指南](usdp_community/developer/hdfs)
