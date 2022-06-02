@@ -29,7 +29,7 @@ http://<your_master1_ip>
 
 ![](../images/1.0.x/webconsole/monitor/service_grafana_ui_details.png)
 
-> 默认登陆口令请参考 [各服务WebUIs账号](/usdpdc/1.0.x/cluster_notes/login)，请登陆后及时修改密码！
+> 默认登陆口令请参考 [各服务WebUIs账号](/usdp_community/1.0.x/cluster_notes/login)，请登陆后及时修改密码！
 
 - 登陆后进入Grafana首页，如下图所示：
 
