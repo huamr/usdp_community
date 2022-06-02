@@ -8,9 +8,6 @@
    * [安装包下载](usdp_community/plan&create/download)
    * [资源规划参考](usdp_community/plan&create/deploy_plan)
    * [部署操作指南](usdp_community/plan&create/install)
-* <!--产品文档-->
-   * <!--[USDP Community  v1.0.x](/usdp_community/1.0.x/README)-->
-   * <!--[USDP v2.0.x](/usdp_community/2.0.x/README) -->
 * 操作指南
    * [创建大数据集群](usdp_community/webconsole/cluster_create)
 
@@ -35,6 +32,6 @@
      * [调度服务-Airflow](usdp_community/schedule/airflow)
    * 安全开发指南
      * [Ranger-开发指南](usdp_community/developer/ranger)
-* [更多USDP版本](/usdp_community/version_list)
+* 更多USDP版本
    * [USDP专业版](/usdpdc/README)
 
