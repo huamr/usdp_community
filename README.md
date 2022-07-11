@@ -60,3 +60,8 @@ USDP提供预置的告警模板，用户只需要引导进行简单配置，即�
 
 请点击前往下载 [USDP社区版安装包](usdp_community/plan&create/download)
 
+
+
+## 社区支持
+
+请点击前往获取 [社区技术支持](usdp_community/support)

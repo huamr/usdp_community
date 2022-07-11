@@ -66,3 +66,8 @@ USDP社区版 v1.0.x 中，已支持的大数据生态服务有：
 
 更多USDP社区发行版，请查看 [USDP发行版本](/usdp_community/version_list) 列表。
 
+
+
+## 社区支持
+
+请点击前往获取 [社区技术支持](usdp_community/support)

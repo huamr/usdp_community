@@ -39,6 +39,7 @@
     * [调度服务-Airflow](usdp_community/schedule/airflow)
   * 安全开发指南
     * [Ranger-开发指南](usdp_community/developer/ranger)
+* [社区技术支持](usdp_community/support)
 * [更多USDP版本](/usdp_community/version_list)
   * [USDP专业版](/usdpdc/README)
 

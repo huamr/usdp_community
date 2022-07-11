@@ -8,7 +8,7 @@
   * [安装包下载](usdp_community/plan&create/download)
   * [资源规划参考](usdp_community/plan&create/deploy_plan)
   * [部署操作指南](usdp_community/plan&create/install)
-  
+
 * 操作指南
   * [创建大数据集群](usdp_community/webconsole/cluster_create)
   * 集群节点
@@ -29,13 +29,13 @@
       * [通知对象](usdp_community/webconsole/alarmInform_object)
       * [邮件发送设置](usdp_community/webconsole/alarmInform_email)
     * [告警生效](usdp_community/webconsole/alarmTemplate_work)
-  
+
 * 集群说明
   * [各服务WebUIs账号](usdp_community/1.0.x/cluster_notes/login)
   * [各组件服务部署规则说明](usdp_community/1.0.x/cluster_notes/rule)
-  
+
   开发指南
-  
+
   * 存储开发指南
     * [HDFS-开发指南](usdp_community/developer/hdfs)
     * [Hive-开发指南](usdp_community/developer/hive)
@@ -44,7 +44,10 @@
     * [调度服务-Airflow](usdp_community/schedule/airflow)
   * 安全开发指南
     * [Ranger-开发指南](usdp_community/developer/ranger)
-  
+
+* [社区技术支持](usdp_community/support)
+
 * [更多USDP版本](/usdp_community/version_list)
+
   * [USDP专业版](/usdpdc/README)
 
