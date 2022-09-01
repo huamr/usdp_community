@@ -359,7 +359,9 @@ bin/start-udp-server.sh
 
 通过浏览器访问如下地址即可打开 USDP Web 页面：
 
-http://:80
+```
+http://<usdp_server_ip>
+```
 
 
 
